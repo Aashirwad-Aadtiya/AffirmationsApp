@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Power Resides, where men believe it resides.</string>string>
+    <string name="affirmation2">The Greatest Punch was the one you never threw.</string>string>
+    <string name="affirmation3">Every ambitious move is a gamble.</string>string>
+    <string name="affirmation4">Know your enemy, know thyself and you shall not fear a hundred battles.</string>string>
+    <string name="affirmation5">Guilt before the act is called Morality.</string>string>
+    <string name="affirmation6">Limits, just like fear are often an illusion.</string>string>
+    <string name="affirmation7">Definition excludes the possibility for change.</string>string>
+    <string name="affirmation8">Better a witty fool, than a foolish wit.</string>string>
+    <string name="affirmation9">The purpose of fiction is to combat loneliness.</string>string>
+    <string name="affirmation10">A lie is just a great story that someone ruined with the truth.</string>string>
+
+</resources>
